@@ -1,0 +1,7 @@
+nltk
+spacy
+transformers
+sentencepiece
+torch
+sentence-transformers
+faiss-cpu
